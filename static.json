@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "electronicker"
+      "X-Author": "electronicker",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
